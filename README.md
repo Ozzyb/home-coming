@@ -1,5 +1,3 @@
-# home-coming
-# home-coming
+# HomecomIng
 
-
-this is working
+Click "Start" to play.
